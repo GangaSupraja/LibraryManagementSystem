@@ -1,5 +1,6 @@
-Library Management System
-=================================
+
+###Library Management System
+
 A mini Java project to manage books and users in a library using Object-Oriented Programming principles. This version uses **interfaces** to promote abstraction and modularity.
 
 Feature
@@ -31,3 +32,6 @@ Interface Explanation
 LibraryOperations` is a Java interface that defines the methods any library system must implement
 
 
+=======
+# LibraryManagementSystem
+>>>>>>> a0bac3fd7955afb6ed4ae29d476cab80e5da89c5
